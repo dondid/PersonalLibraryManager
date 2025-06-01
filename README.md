@@ -202,7 +202,7 @@ Contribuțiile sunt binevenite! Pentru a contribui:
 
 Pentru întrebări, sugestii sau raportarea bug-urilor:
 
-- **Email:** biblioteca.personala@example.com
+- **Email:** ionutdanieldodoc@gmail.com
 - **Issues:** Folosește sistemul de issues din GitHub
 - **Documentație:** Wiki-ul proiectului
 
